@@ -1,0 +1,9 @@
+To revert to old commit but keep history:
+
+NOTE THE DOT
+git checkout <hash of commit> .
+NOTE THE DOT
+
+files will be already added
+
+
