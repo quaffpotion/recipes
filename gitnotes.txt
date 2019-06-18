@@ -6,4 +6,8 @@ NOTE THE DOT
 
 files will be already added
 
+to see previous stash:
+
+git stash show -p
+
 
